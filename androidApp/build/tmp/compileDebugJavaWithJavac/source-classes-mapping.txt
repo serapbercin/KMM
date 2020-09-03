@@ -1,0 +1,2 @@
+com/serapbercin/kotlinmm/androidApp/BuildConfig.java
+ com.serapbercin.kotlinmm.androidApp.BuildConfig
